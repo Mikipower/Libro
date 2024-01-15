@@ -10,6 +10,7 @@ Ejercicio 2
 >dir
 Ejercicio 3
 >git status
+>echo >>indice.txt
 >echo "Capítulo 1: Introducción a Git" >>indice.txt
 >echo "Capítulo 2: Flujo de trabajo basico" >>indice.txt
 >echo "Capítulo 3: Repositorios remotos" >>indice.txt
