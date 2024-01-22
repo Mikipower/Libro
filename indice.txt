@@ -1,6 +1,4 @@
-ECHO est  activado.
-"Cap¡tulo 1: Introducci¢n a Git" 
-"Cap¡tulo 2:Flujo de trabajo b sico" 
-"Cap¡tulo 3: Repositorios remotos" 
-ECHO est  activado.
-"Cap¡tulo 4:Gesti¢n de ramas" 
+Capitulo1: Introduccion a Git 
+echo Cap¡tulo2: Flujo de trabajo basico 
+Cap¡tulo3: Repositorios remotos 
+Cap¡tulo4: Gesti¢n de ramas 
